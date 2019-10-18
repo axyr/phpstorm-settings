@@ -1,0 +1,220 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="CheckEmptyScriptTag" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="CheckImageSize" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="CheckValidXmlInScriptTagBody" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="DuplicateKeyInSection" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="DuplicateSectionInFile" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="ES6ConvertRequireIntoImport" enabled="false" level="INFORMATION" enabled_by_default="false" />
+          <inspection_tool class="ES6ConvertToForOf" enabled="false" level="INFORMATION" enabled_by_default="false" />
+          <inspection_tool class="ES6ConvertVarToLetConst" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="EmptyEventHandler" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="HbEmptyBlock" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="HtmlDeprecatedTag" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="HtmlExtraClosingTag" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="HtmlFormInputWithoutLabel" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="HtmlPresentationalElement" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="HtmlUnknownAnchorTarget" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="HtmlUnknownAttribute" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="HtmlUnknownBooleanAttribute" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="HtmlUnknownTag" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="HtmlUnknownTarget" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="IncompatibleMaskJS" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="JSBitwiseOperatorUsage" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="JSFunctionExpressionToArrowFunction" enabled="false" level="INFORMATION" enabled_by_default="false" />
+          <inspection_tool class="JSStringConcatenationToES6Template" enabled="false" level="INFORMATION" enabled_by_default="false" />
+          <inspection_tool class="LessResolvedByNameOnly" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="LessUnresolvedMixin" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="LessUnresolvedVariable" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="LossyEncoding" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="PhpDivisionByZeroInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpMissingParentCallCommonInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpUnusedPrivateFieldInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="PointlessBitwiseExpressionJS" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="ProblematicWhitespace" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="RequiredAttributes" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="ShiftOutOfRangeJS" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false" />
+          <inspection_tool class="TernaryOperatorSimplifyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="UnNecessaryDoubleQuotesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="UnnecessaryLocalVariableJS" enabled="false" level="WARNING" enabled_by_default="false">
+            <option name="m_ignoreImmediatelyReturnedVariables" value="false" />
+            <option name="m_ignoreAnnotatedVariables" value="false" />
+          </inspection_tool>
+          <inspection_tool class="XsltDeclarations" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="XsltTemplateInvocation" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="XsltUnusedDeclaration" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="XsltVariableShadowing" enabled="false" level="WARNING" enabled_by_default="false" />
+        </profile>
+        <version value="1.0" />
+      </component>
+      <component name="MarkdownProjectSettings">
+        <PreviewSettings splitEditorLayout="FIRST" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="LINE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="true" showSelectionInPreview="true">
+          <PanelProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.javafx.html.panel" providerName="JavaFX WebView" />
+          </PanelProvider>
+        </PreviewSettings>
+        <ParserSettings gitHubSyntaxChange="false">
+          <PegdownExtensions>
+            <option name="ABBREVIATIONS" value="false" />
+            <option name="ANCHORLINKS" value="true" />
+            <option name="ASIDE" value="false" />
+            <option name="ATXHEADERSPACE" value="false" />
+            <option name="AUTOLINKS" value="true" />
+            <option name="DEFINITIONS" value="true" />
+            <option name="DEFINITION_BREAK_DOUBLE_BLANK_LINE" value="false" />
+            <option name="FENCED_CODE_BLOCKS" value="true" />
+            <option name="FOOTNOTES" value="false" />
+            <option name="HARDWRAPS" value="true" />
+            <option name="INSERTED" value="false" />
+            <option name="QUOTES" value="false" />
+            <option name="RELAXEDHRULES" value="true" />
+            <option name="SMARTS" value="false" />
+            <option name="STRIKETHROUGH" value="true" />
+            <option name="SUBSCRIPT" value="false" />
+            <option name="SUPERSCRIPT" value="false" />
+            <option name="SUPPRESS_HTML_BLOCKS" value="false" />
+            <option name="SUPPRESS_INLINE_HTML" value="false" />
+            <option name="TABLES" value="true" />
+            <option name="TASKLISTITEMS" value="true" />
+            <option name="TOC" value="false" />
+            <option name="WIKILINKS" value="true" />
+          </PegdownExtensions>
+          <ParserOptions>
+            <option name="COMMONMARK_LISTS" value="false" />
+            <option name="DUMMY" value="false" />
+            <option name="EMOJI_SHORTCUTS" value="true" />
+            <option name="FLEXMARK_FRONT_MATTER" value="false" />
+            <option name="GFM_LOOSE_BLANK_LINE_AFTER_ITEM_PARA" value="false" />
+            <option name="GFM_TABLE_RENDERING" value="true" />
+            <option name="GITBOOK_URL_ENCODING" value="false" />
+            <option name="GITHUB_EMOJI_URL" value="false" />
+            <option name="GITHUB_LISTS" value="false" />
+            <option name="GITHUB_WIKI_LINKS" value="true" />
+            <option name="JEKYLL_FRONT_MATTER" value="false" />
+            <option name="SIM_TOC_BLANK_LINE_SPACER" value="false" />
+          </ParserOptions>
+        </ParserSettings>
+        <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" embedUrlContent="false" addPageHeader="true">
+          <GeneratorProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.javafx.html.generator" providerName="JavaFx HTML Generator" />
+          </GeneratorProvider>
+          <headerTop />
+          <headerBottom />
+          <bodyTop />
+          <bodyBottom />
+        </HtmlSettings>
+        <CssSettings previewScheme="UI_SCHEME" cssUri="" isCssUriEnabled="false" isCssTextEnabled="false" isDynamicPageWidth="true">
+          <StylesheetProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.javafx.html.css" providerName="Default JavaFx Stylesheet" />
+          </StylesheetProvider>
+          <ScriptProviders />
+          <cssText />
+        </CssSettings>
+        <HtmlExportSettings updateOnSave="false" parentDir="$ProjectFileDir$" targetDir="$ProjectFileDir$" cssDir="" scriptDir="" plainHtml="false" imageDir="" copyLinkedImages="false" imageUniquifyType="0" targetExt="" useTargetExt="false" noCssNoScripts="false" linkToExportedHtml="true" exportOnSettingsChange="true" regenerateOnProjectOpen="false" />
+        <LinkMapSettings>
+          <textMaps />
+        </LinkMapSettings>
+      </component>
+      <component name="MessDetector">
+        <phpmd_settings>
+          <MessDetectorConfiguration tool_path="$USER_HOME$/bin/phpmd/src/bin/phpmd" />
+        </phpmd_settings>
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+      <component name="ProjectDictionaryState">
+        <dictionary name="martijn" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Code SmellPHP</id>
+              </State>
+              <State>
+                <id>Code StylePHP</id>
+              </State>
+              <State>
+                <id>Control FlowPHP</id>
+              </State>
+              <State>
+                <id>Error handlingPHP</id>
+              </State>
+              <State>
+                <id>GeneralPHP</id>
+              </State>
+              <State>
+                <id>Naming conventionsPHP</id>
+              </State>
+              <State>
+                <id>PHP</id>
+              </State>
+              <State>
+                <id>PHP Strict StandardsPHP</id>
+              </State>
+              <State>
+                <id>PHPDocPHP</id>
+              </State>
+              <State>
+                <id>Probable bugsPHP</id>
+              </State>
+              <State>
+                <id>Replaceable assignmentsPHP</id>
+              </State>
+              <State>
+                <id>Type compatibilityPHP</id>
+              </State>
+              <State>
+                <id>UndefinedPHP</id>
+              </State>
+              <State>
+                <id>UnusedPHP</id>
+              </State>
+            </expanded-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="options.lastSelected" value="Ignore Files Support" />
+        <property name="options.splitter.details.proportions" value="0.2" />
+        <property name="options.splitter.main.proportions" value="0.3" />
+        <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

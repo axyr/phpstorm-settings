@@ -1,0 +1,8 @@
+<templateSet group="FontAwesome">
+  <template name="fa-arrow-circle-left" value="&lt;i class=&quot;fa fa-arrow-circle-left&quot;&gt;&lt;/i&gt;$END$" description="fa-arrow-circle-left icon" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GSP" value="true" />
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+</templateSet>

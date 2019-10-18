@@ -1,0 +1,17 @@
+<templateSet group="Vue">
+  <template name="cmp" value="Vue.component('$START$', {&#10;    template: `&#10;    &lt;div&gt;&#10;     &#10;    &lt;/div&gt;`,&#10;    props: {&#10;        propName: {key: true}&#10;    },&#10;    data() {&#10;        return {}&#10;    },&#10;    mounted() {&#10;    },&#10;    computed: {},&#10;    methods: {&#10;        methodName(){&#10;&#10;        }&#10;    }&#10;});" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="vue" value="var app = new Vue({&#10;    el: '#root'&#10;});" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>

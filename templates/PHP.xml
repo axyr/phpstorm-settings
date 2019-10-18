@@ -1,0 +1,35 @@
+<templateSet group="PHP">
+  <template name="fi" value="for($i = 0; $i &lt; $NAME$ ; $i++) {&#10;    $END$&#10;}" description="create a for $i loop" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="$" value="$this-&gt;" description="add $this-&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="dd" value="dd($END$);" description="die and dump" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="att" value="/**&#10; * @return string|null&#10; */&#10;public function get$NAME$Attribute()&#10;{ &#10;    return $this-&gt;$END$;&#10;}" description="getXxAttribute method" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="ddd" value="ddd($END$);" description="die dont dump" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="ve" value="var_dump($NAME$);&#10;exit();&#10;$END$" description="Vardump and exit" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
