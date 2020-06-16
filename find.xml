@@ -24,8 +24,8 @@
     <mask>table.blade.php</mask>
     <mask>*.json</mask>
     <mask>*.scss</mask>
-    <mask>*.blade.php</mask>
     <mask>*.js</mask>
+    <mask>*.blade.php</mask>
     <mask>*.php</mask>
   </component>
 </application>
