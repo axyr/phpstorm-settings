@@ -22,9 +22,9 @@
     <mask>index.blade.php</mask>
     <mask>table.blade.php</mask>
     <mask>*.js</mask>
-    <mask>*.blade.php</mask>
     <mask>*.scss</mask>
     <mask>*.json</mask>
     <mask>*.php</mask>
+    <mask>*.blade.php</mask>
   </component>
 </application>
