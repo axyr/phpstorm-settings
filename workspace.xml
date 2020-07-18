@@ -1,0 +1,11 @@
+<application>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JSON.composer.package.version.hints" />
+      </set>
+    </option>
+    <option name="enabled" value="false" />
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
+</application>
