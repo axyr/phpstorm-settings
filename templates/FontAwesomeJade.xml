@@ -2094,7 +2094,7 @@
       <option name="JADE" value="true" />
     </context>
   </template>
-  <template name="fa-slack" value="i.fa.fa-slack&#10;$END$" description="fa-slack icon" toReformat="true" toShortenFQNames="true">
+  <template name="fa-slack" value="i.fa.fa-slack&#10;$END$" description="fa-slack icon" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JADE" value="true" />
     </context>
