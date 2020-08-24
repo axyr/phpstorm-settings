@@ -26,6 +26,7 @@
       <mapping ext="kit" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="xpi" type="PLAIN_TEXT" />
+      <mapping ext="eml" type="PLAIN_TEXT" />
       <mapping ext="go" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="map" type="JavaScript files (syntax highlighting only)" />
