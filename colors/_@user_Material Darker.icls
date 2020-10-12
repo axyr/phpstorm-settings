@@ -4,10 +4,10 @@
     <property name="created">2020-10-09T20:13:06</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.2.2.0.0</property>
-    <property name="modified">2020-10-10T00:53:29</property>
+    <property name="modified">2020-10-12T13:19:03</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="2.2" />
+  <option name="LINE_SPACING" value="2.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="13" />
