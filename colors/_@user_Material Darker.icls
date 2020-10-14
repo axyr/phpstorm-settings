@@ -4,7 +4,7 @@
     <property name="created">2020-10-09T20:13:06</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.2.2.0.0</property>
-    <property name="modified">2020-10-12T14:36:43</property>
+    <property name="modified">2020-10-14T13:53:12</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -504,14 +504,14 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="696969" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="eeffff" />
+        <option name="FOREGROUND" value="707070" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -2855,6 +2855,21 @@
     <option name="PHP_CONSTANT">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
+      </value>
+    </option>
+    <option name="PHP_DOC_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="707070" />
+      </value>
+    </option>
+    <option name="PHP_DOC_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="6e6e6e" />
+      </value>
+    </option>
+    <option name="PHP_DOC_PROPERTY_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="707070" />
       </value>
     </option>
     <option name="PHP_EXEC_COMMAND_ID">
