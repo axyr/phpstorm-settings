@@ -45,6 +45,7 @@
   </XML>
   <codeStyleSettings language="JavaScript">
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="ALIGN_MULTILINE_FOR" value="false" />
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
@@ -57,8 +58,8 @@
     <option name="FINALLY_ON_NEW_LINE" value="true" />
     <option name="SPECIAL_ELSE_IF_TREATMENT" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
-    <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
-    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
+    <option name="ALIGN_MULTILINE_FOR" value="false" />
+    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
     <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_WRAP" value="5" />
@@ -87,6 +88,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="ALIGN_MULTILINE_FOR" value="false" />
   </codeStyleSettings>
   <codeStyleSettings language="Vue">
     <indentOptions>
