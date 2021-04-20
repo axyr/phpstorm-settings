@@ -4,7 +4,7 @@
     <property name="created">2020-10-09T20:13:06</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.2.2.0.0</property>
-    <property name="modified">2021-04-16T12:25:54</property>
+    <property name="modified">2021-04-20T20:33:57</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.7" />
@@ -3674,7 +3674,6 @@
     </option>
     <option name="TYPO">
       <value>
-        <option name="EFFECT_COLOR" value="ffeb95" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
