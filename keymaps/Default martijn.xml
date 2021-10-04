@@ -11,6 +11,9 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift alt w" />
+  </action>
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
@@ -69,4 +72,5 @@
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="openAssertEqualsDiff" />
+  <action id="tasks.close" />
 </keymap>
