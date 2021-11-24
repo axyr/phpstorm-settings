@@ -11,6 +11,7 @@
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern="laravel_apiboilerplate" type="PLAIN_TEXT" />
       <mapping pattern="5levelupqueryexample" type="PLAIN_TEXT" />
+      <mapping pattern="allow-failed-order-processing" type="PLAIN_TEXT" />
       <mapping pattern="silverstripe" type="PLAIN_TEXT" />
       <mapping pattern="php" type="PLAIN_TEXT" />
       <mapping pattern=".tmp" type="PLAIN_TEXT" />
