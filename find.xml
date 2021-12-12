@@ -21,11 +21,11 @@
     <mask>*.ss</mask>
     <mask>*.html</mask>
     <mask>*.json</mask>
-    <mask>*.css</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.blade.php</mask>
     <mask>*.vue</mask>
+    <mask>*.css</mask>
     <mask>*.php</mask>
   </component>
 </application>
