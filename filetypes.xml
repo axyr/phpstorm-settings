@@ -1,25 +1,25 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
     <extensionMap>
       <mapping pattern="index" type="Blade" />
       <mapping pattern="mobile_navigation.blade.php" type="Native" />
       <mapping pattern="stripe" type="PHP" />
       <mapping ext="stub" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
-      <mapping pattern="silverstripe_version" type="PLAIN_TEXT" />
-      <mapping pattern="laravel_apiboilerplate" type="PLAIN_TEXT" />
-      <mapping pattern="php" type="PLAIN_TEXT" />
-      <mapping pattern="allow-sap-writing" type="PLAIN_TEXT" />
-      <mapping pattern=".tmp" type="PLAIN_TEXT" />
-      <mapping pattern="5levelupqueryexample" type="PLAIN_TEXT" />
       <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
-      <mapping pattern="allow-failed-order-processing" type="PLAIN_TEXT" />
-      <mapping pattern="custombash" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="allow-sap-writing" type="PLAIN_TEXT" />
       <mapping pattern="_manifest_exclude" type="PLAIN_TEXT" />
+      <mapping pattern="silverstripe_version" type="PLAIN_TEXT" />
+      <mapping pattern="allow-failed-order-processing" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".tmp" type="PLAIN_TEXT" />
       <mapping pattern="silverstripe" type="PLAIN_TEXT" />
+      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
+      <mapping pattern="laravel_apiboilerplate" type="PLAIN_TEXT" />
+      <mapping pattern="5levelupqueryexample" type="PLAIN_TEXT" />
+      <mapping pattern="php" type="PLAIN_TEXT" />
+      <mapping pattern="custombash" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
       <mapping ext="xpi" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
