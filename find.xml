@@ -7,7 +7,7 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -20,11 +20,11 @@
     <mask>*.ss</mask>
     <mask>*.html</mask>
     <mask>*.scss</mask>
-    <mask>*.css</mask>
     <mask>*.blade.php</mask>
     <mask>*.json</mask>
     <mask>*.vue</mask>
-    <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.css</mask>
+    <mask>*.php</mask>
   </component>
 </application>
