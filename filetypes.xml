@@ -25,6 +25,7 @@
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="kit" type="PLAIN_TEXT" />
       <mapping ext="eml" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="crx" type="PLAIN_TEXT" />
       <mapping ext="codekit" type="PLAIN_TEXT" />
