@@ -13,6 +13,7 @@
       <mapping pattern="_manifest_exclude" type="PLAIN_TEXT" />
       <mapping pattern="silverstripe_version" type="PLAIN_TEXT" />
       <mapping pattern="allow-failed-order-processing" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".tmp" type="PLAIN_TEXT" />
       <mapping pattern="silverstripe" type="PLAIN_TEXT" />
