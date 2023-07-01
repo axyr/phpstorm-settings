@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
     <extensionMap>
+      <mapping pattern="crontab" type="AUTO_DETECTED" />
       <mapping pattern="index" type="Blade" />
       <mapping pattern="mobile_navigation.blade.php" type="Native" />
       <mapping pattern="stripe" type="PHP" />
@@ -11,7 +12,9 @@
       <mapping pattern="allow-sap-writing" type="PLAIN_TEXT" />
       <mapping pattern="_manifest_exclude" type="PLAIN_TEXT" />
       <mapping pattern="silverstripe_version" type="PLAIN_TEXT" />
+      <mapping pattern="startup" type="PLAIN_TEXT" />
       <mapping pattern="allow-failed-order-processing" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".tmp" type="PLAIN_TEXT" />
       <mapping pattern="silverstripe" type="PLAIN_TEXT" />
@@ -25,12 +28,15 @@
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="kit" type="PLAIN_TEXT" />
       <mapping ext="eml" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="crx" type="PLAIN_TEXT" />
       <mapping ext="codekit" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="go" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping pattern="bit" type="Shell Script" />
       <mapping ext="map" type="JavaScript files (syntax highlighting only)" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
